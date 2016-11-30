@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.doublez.cc/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.html</loc>
+    
+    <lastmod>2016-11-30T04:23:55.369Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.doublez.cc/google10910904ab21c29c.html</loc>
     
     <lastmod>2016-11-29T10:40:29.274Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://blog.doublez.cc/404.html</loc>
     
     <lastmod>2016-11-29T10:03:31.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.doublez.cc/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.html</loc>
-    
-    <lastmod>2016-11-29T03:58:08.405Z</lastmod>
     
   </url>
   
