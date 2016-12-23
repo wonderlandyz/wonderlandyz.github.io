@@ -5,18 +5,42 @@
     
   <url>
     <loc>http://blog.doublez.cc/hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2.html</loc>
-    <lastmod>2016-12-23T04:28:02.747Z</lastmod>
+    <lastmod>2016-12-23T08:03:06.830Z</lastmod>
     <data>
         <display>
         <title>hexo+next添加algolia搜索</title>
         <pubTime>2016-12-23T03:29:41.000Z</pubTime>
         
-        <tag>hexo,algolia</tag>
+        <tag>hexo</tag>
+         
+        <tag>algolia</tag>
          
          
            
              
               <breadCrumb title="个人博客" url="http://blog.doublez.cc/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.doublez.cc/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%EF%BC%88%E9%80%80%E6%AC%BE%E4%B8%BA%E4%BE%8B%EF%BC%89.html</loc>
+    <lastmod>2016-12-23T08:02:33.492Z</lastmod>
+    <data>
+        <display>
+        <title>微信支付（退款为例）</title>
+        <pubTime>2016-12-23T07:57:19.000Z</pubTime>
+        
+        <tag>微信支付</tag>
+         
+        <tag>Java</tag>
+         
+         
+           
+             
+              <breadCrumb title="其他" url="http://blog.doublez.cc/categories/%E5%85%B6%E4%BB%96/"/>
           
         </display>
     </data>
