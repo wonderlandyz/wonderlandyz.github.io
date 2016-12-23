@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.doublez.cc/hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2.html</loc>
+    
+    <lastmod>2016-12-23T04:28:02.747Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.doublez.cc/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.html</loc>
     
     <lastmod>2016-12-05T02:26:45.768Z</lastmod>
@@ -16,6 +23,13 @@
   </url>
   
   <url>
+    <loc>http://blog.doublez.cc/google10910904ab21c29c.html</loc>
+    
+    <lastmod>2016-12-01T03:05:42.725Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.doublez.cc/categories/index.html</loc>
     
     <lastmod>2016-12-01T03:05:42.725Z</lastmod>
@@ -23,30 +37,23 @@
   </url>
   
   <url>
-    <loc>http://blog.doublez.cc/google10910904ab21c29c.html</loc>
-    
-    <lastmod>2016-11-29T10:40:29.274Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.doublez.cc/baidu_verify_6iWnQEuzyi.html</loc>
     
-    <lastmod>2016-11-29T10:20:41.689Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.doublez.cc/404.html</loc>
-    
-    <lastmod>2016-11-29T10:03:31.038Z</lastmod>
+    <lastmod>2016-12-01T03:05:42.724Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.doublez.cc/about/index.html</loc>
     
-    <lastmod>2016-11-29T03:47:40.497Z</lastmod>
+    <lastmod>2016-12-01T03:05:42.724Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.doublez.cc/404.html</loc>
+    
+    <lastmod>2016-12-01T03:05:42.723Z</lastmod>
     
   </url>
   
