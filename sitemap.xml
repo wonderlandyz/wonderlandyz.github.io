@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.doublez.cc/%E8%B6%85%E7%AE%80%E5%8D%95%EF%BC%8Cspring%20boot%E6%95%B4%E5%90%88mybatis.html</loc>
+    
+    <lastmod>2016-12-28T03:12:25.906Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.doublez.cc/hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2.html</loc>
     
     <lastmod>2016-12-23T08:03:06.830Z</lastmod>
